@@ -37,7 +37,7 @@ A lightweight Telegram automation utility built with **Telethon**, allowing you 
 
 ## Disclaimer
 
-This tool is for **educational purposes only***.
+This tool is for **educational purposes only**.
 Automating actions on Telegram may cause account restrictions or bans if misused.
 The developer is **not responsible** for any misuse or consequences resulting from this tool.
  
